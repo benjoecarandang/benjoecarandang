@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @benjoecarandang
 - 👀 I’m interested in music as well as programming
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning React JS, NodeJs, Tailwind CSS
 - 📫 How to reach me: benjoe.carandang@gmail.com
+- ☑️ <a href="https://www.linkedin.com/in/benjoe-carandang-8021281a1/">LinkedIn</a>
 
 <!---
 benjoecarandang/benjoecarandang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
